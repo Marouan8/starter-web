@@ -14,7 +14,9 @@ this is a sample web test project
 how we use git
 
 ## Purpose
-
+Test test
 ## Deployment
+
+deploy an application
 
 # How To contribute
