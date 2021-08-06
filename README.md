@@ -8,7 +8,10 @@ Sample website with plenty of files for demos
 
 # Starter Web Project
 
+this is a sample web test project
+
 ## Introduction
+how we use git
 
 ## Purpose
 
