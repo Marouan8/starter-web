@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marouane Ben -- Dev -- @Ibakourel
 
 # THANKS
 
