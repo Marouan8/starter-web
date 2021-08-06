@@ -21,4 +21,6 @@ deploy an application
 
 # How To contribute
 
+please fork this repo and then issue pull req for review
+
 ### Copyright
