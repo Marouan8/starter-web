@@ -18,7 +18,7 @@ how we use git
 Test test
 ## Deployment
 
-deploy an application
+deploy an application agd ibakourel
 
 # How To contribute
 
