@@ -20,3 +20,5 @@ Test test
 deploy an application
 
 # How To contribute
+
+### Copyright
