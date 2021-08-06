@@ -25,3 +25,5 @@ deploy an application
 please fork this repo and then issue pull req for review
 
 ### Copyright
+
+All rights reserved.
